@@ -1,0 +1,2 @@
+# webQQ
+ajax realize webQQ
